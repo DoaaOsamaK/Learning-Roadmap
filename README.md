@@ -37,6 +37,28 @@ Java is a popular programming language known for its portability and versatility
 - [ ] JavaFX (for GUI)
 - [ ] Servlets and JSP (for web development)
 
+## Python 🐍
+Python is a versatile and easy-to-read programming language used in web development, scientific computing, artificial intelligence, and more.
+
+### Roadmap 🛣️
+- [ ] Basics (Syntax, Data Types, Operators)
+- [ ] Control Flow (Conditionals and Loops)
+- [ ] Functions
+- [ ] Data Structures (Lists, Tuples, Sets, Dictionaries)
+- [ ] File I/O
+- [ ] Exception Handling
+- [ ] Object-Oriented Programming
+- [ ] Regular Expressions
+- [ ] Modules and Packages
+- [ ] Virtual Environments
+- [ ] Unit Testing
+- [ ] Web Development (Flask, Django)
+- [ ] Data Analysis (NumPy, Pandas)
+- [ ] Machine Learning (scikit-learn, TensorFlow, PyTorch)
+- [ ] Web Scraping
+- [ ] GUI Programming (Tkinter, PyQt)
+- [ ] Deployment
+
 ## Object-Oriented Programming (OOP) 🔄
 Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data and code.
 
